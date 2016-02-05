@@ -14,7 +14,7 @@ The following required functionality is complete:
 [✓] User can restock any of the available products 
 
 Notes:
---> Error handling features are yet to be implemented.
+--> Some Error handling features are yet to be implemented.
 
 
 
